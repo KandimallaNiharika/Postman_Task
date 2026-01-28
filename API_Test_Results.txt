@@ -1,0 +1,87 @@
+﻿Introduction:
+This document contains the test results of RESTful APIs tested using Postman.
+The testing focuses on validating data creation and data retrieval functionalities
+using POST and GET HTTP methods.
+
+
+Tool Used:
+Postman
+
+
+Data Format:
+JSON
+
+
+---------------------------------------
+Test Case 1: Add User API
+---------------------------------------
+API Description:
+This API is used to add a new user by sending user details in JSON format.
+
+
+Method:
+POST
+
+
+Endpoint:
+https://dummyjson.com/users/add
+
+
+Input Data:
+User information such as name, age, email, username, and address.
+
+
+Expected Result:
+The API should return status code 200 OK or 201 Created along with user details.
+
+
+Actual Result:
+The API returned status code 201 Created and user data.
+
+
+Status:
+PASS
+
+
+---------------------------------------
+Test Case 2: Get Users API
+---------------------------------------
+API Description:
+This API retrieves a list of users from the server.
+
+
+Method:
+GET
+
+
+Endpoint:
+https://dummyjson.com/users
+
+
+Input Data:
+No input required.
+
+
+Expected Result:
+The API should return status code 200 OK with a list of users in JSON format.
+
+
+Actual Result:
+The API returned status code 200 OK with user data.
+
+
+Status:
+PASS
+
+
+---------------------------------------
+Overall Summary:
+---------------------------------------
+All API test cases were executed successfully using Postman.
+The APIs returned correct status codes and valid JSON responses.
+This confirms that data creation and retrieval functionalities
+are working as expected.
+
+
+Final Status:
+TASK COMPLETED SUCCESSFULLY
