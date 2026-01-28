@@ -67,3 +67,5 @@ The main objective of this task is:
 The APIs were successfully tested using Postman. Both POST and GET requests returned expected responses and correct HTTP status codes. This task provided hands-on experience in RESTful API testing and improved understanding of API request-response mechanisms.
 
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/52f51f69-8ea2-4f2f-be76-ef96103c9ca3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4e5218d3-a97c-499f-9834-0f9b9f5fb7db" />
