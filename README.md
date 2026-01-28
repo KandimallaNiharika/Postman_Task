@@ -1,5 +1,18 @@
-# API Testing Using Postman  
-CODTECH Internship – Task 2
+# Task 2-API Testing Using Postman  
+
+*Company:*CODTECH IT SOLUTIONS
+
+*Intern Name:*Kandimalla Niharika
+
+*Intern Id:*CTIS2057
+
+*Domain:*Software Testing
+
+*Duration:*4 Weeks
+
+*Mentor:*Neela Santosh
+
+PROJECT TITLE: API Testing Using Postman  
 
 ## Introduction
 API (Application Programming Interface) testing is a type of software testing that focuses on verifying whether APIs function correctly, reliably, and securely. Postman is a popular tool used for testing RESTful APIs by sending HTTP requests and validating responses.
@@ -53,4 +66,4 @@ The main objective of this task is:
 ## Conclusion
 The APIs were successfully tested using Postman. Both POST and GET requests returned expected responses and correct HTTP status codes. This task provided hands-on experience in RESTful API testing and improved understanding of API request-response mechanisms.
 
-# Postman_Task
+
